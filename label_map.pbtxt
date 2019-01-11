@@ -1,0 +1,45 @@
+item {
+  id: 1  name: 'traffic_light'
+}
+item {
+  id: 2  name: 'traffic_lights'
+}
+item {
+  id: 3  name: 'park_etmek_yasak'
+}
+item {
+  id: 4  name: 'ileri_ve_sola_donus'
+}
+item {
+  id: 5  name: 'virajli_yol'
+}
+item {
+  id: 6  name: 'hiz_siniri'
+}
+item {
+  id: 7  name: 'daralan_yol'
+}
+item {
+  id: 8  name: 'arac_giremez'
+}
+item {
+  id: 9  name: 'yol_ver'
+}
+item {
+  id: 10  name: 'giris_yasak'
+}
+item {
+  id: 11  name: 'dur'
+}
+item {
+  id: 12  name: 'sola_don'
+}
+item {
+  id: 13  name: 'ileri_ve_saga_donus'
+}
+item {
+  id: 14  name: 'yaya_gecidi'
+}
+item {
+  id: 15  name: 'saga_don'
+}
